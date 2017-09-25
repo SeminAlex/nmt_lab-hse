@@ -2,3 +2,4 @@
 2) http://deeplearning.net/tutorial/lstm.html - Long short term memory tutorial
 3) https://keras.io/layers/recurrent/#simplernn - reccurent layers keras
 4) https://github.com/fchollet/keras/issues/4962 - how to add attention and also goole how to add attention to keras lstm
+5) http://colah.github.io/posts/2015-08-Understanding-LSTMs/ - HOT TO UNDERSTAND THIS GODDAMIT
