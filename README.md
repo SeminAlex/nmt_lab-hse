@@ -6,8 +6,11 @@ https://docs.google.com/presentation/d/1nd7iZLX1IwgdWC-BkTFH2f28fhzN0eaIk4kxpOvP
 To investigate LSTM RNNs and create NMT system for translation from English to Spanish(for example)
 # The Crew
 Zelenov Aleksei
+
 Semin Aleksandr
+
 Starkov Kirill
+
 Moshkina Daria
 
 ## Base scheme
