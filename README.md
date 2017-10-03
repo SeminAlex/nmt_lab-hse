@@ -4,3 +4,5 @@ https://docs.google.com/presentation/d/1nd7iZLX1IwgdWC-BkTFH2f28fhzN0eaIk4kxpOvP
 
 ## Base scheme
 ![image](https://sun9-13.userapi.com/c840422/v840422917/f80b/I2tINbLra3E.jpg)
+ # LICENSE
+![LICENSE](https://github.com/SeminAlex/nmt_lab-hse/blob/master/LICENSE)
