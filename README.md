@@ -27,3 +27,5 @@ Moshkina Daria
  # LICENSE
 ![Apache License 2.0](https://github.com/SeminAlex/nmt_lab-hse/blob/master/LICENSE)
 
+# BLEU score
+The average BLEU score is 0.396612982821 (2 million sentetnces for training were used)
