@@ -24,8 +24,6 @@ Moshkina Daria
 
 ## Base scheme
 ![image](https://sun9-13.userapi.com/c840422/v840422917/f80b/I2tINbLra3E.jpg)
- # LICENSE
-![Apache License 2.0](https://github.com/SeminAlex/nmt_lab-hse/blob/master/LICENSE)
 
 # BLEU score
 The average BLEU score is 0.396612982821 (2 million sentetnces for training were used)
